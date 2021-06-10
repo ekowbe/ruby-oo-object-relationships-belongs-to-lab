@@ -9,4 +9,3 @@ post.title = "Hello World"
 author = Author.new
 author.name = "Uncle Bob"
 post.author = author
-binding.pry
